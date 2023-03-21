@@ -24,7 +24,6 @@
 
   }
   .container_address {
-    margin-left:50px;
     height: 44px;
     max-width: 100%;
     background-color: #FAF6F2;
