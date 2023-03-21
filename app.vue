@@ -1,5 +1,8 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <CommercialBar/>
+    <NavBar/>
+    <HeroHeader/>
+    <ThreePoint/>
   </div>
 </template>
