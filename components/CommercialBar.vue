@@ -54,17 +54,17 @@
     width: 20px;
   }
 
-  @media only screen and (max-width : 520px) {
+  @media only screen and (max-width : 420px) {
 /* Styles */
 
 .container_address {
   margin-left: 0px;
-  font-size: 14px;
+  font-size: 12px;
   }
 
   .container_phone {
     margin-left: 10px;
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 

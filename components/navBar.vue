@@ -27,7 +27,7 @@
             <li><a href="#" class="">Qui suis je?</a></li>
             <li><a href="#" class="">Accompagnement</a></li>
             <li><a href="#" class="">Tarifs</a></li>
-            <li><a href="#" class="">Contact</a></li>
+            <NuxtLink to="/ContactPage"><li>Contact</li></NuxtLink>
           </ul>
         </div>
   

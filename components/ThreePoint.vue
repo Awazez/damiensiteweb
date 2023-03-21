@@ -1,6 +1,6 @@
 <template>
 
-<section class="section_projects bg-[#FAF6F2] mt-[-45px] pt-24">
+<section class="section_projects bg-[#FAF6F2] mt-[-45px] pt-12">
         <div class="projects__grid grid gap-8 max-w-screen-lg ">
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_listen.png">
