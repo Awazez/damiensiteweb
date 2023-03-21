@@ -24,6 +24,7 @@
 
   }
   .container_address {
+    margin-left:50px;
     height: 44px;
     max-width: 100%;
     background-color: #FAF6F2;
@@ -53,7 +54,24 @@
     width: 20px;
   }
 
-  
+  @media only screen and (max-width : 520px) {
+/* Styles */
+
+.container_address {
+  margin-left: 0px;
+  font-size: 14px;
+  }
+
+  .container_phone {
+    font-size: 14px;
+    height: 44px;
+    max-width: 100%;
+    background-color: #FAF6F2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
 
 
   </style>
