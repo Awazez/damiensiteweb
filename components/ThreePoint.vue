@@ -17,7 +17,7 @@
             <img class="" src="@/assets/img_connect.png">
             <h1>Se reconnecter à soi</h1>
             <p class="project__description">
-              Bien souvent, on se dissocie émotionnellement de notre vécu douloureux. Pourtant, il est nécessaire de reconnecter ces moments et de s’associer à ce qui se passe à l’intérieur de nous pour transmuter  et reprendre son pouvoir personnel sur ces situations difficiles. Je vous accompagne dans cette traversée intérieure.
+              Bien souvent, on se dissocie émotionnellement de notre vécu douloureux. Pourtant, il est nécessaire de reconnecter ces moments et de s’associer à ce qui se passe à l’intérieur de nous pour transmuter  et reprendre son pouvoir personnel.
             </p>
 
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>

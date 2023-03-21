@@ -4,5 +4,8 @@
     <NavBar/>
     <HeroHeader/>
     <ThreePoint/>
+    <ActuSection/>
+    <UsersSection/>
+    <FooterBar/>
   </div>
 </template>

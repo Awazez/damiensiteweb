@@ -1,22 +1,35 @@
 <template>
-<section class="px-4 bg-bermuda text-center wave-container clip-path">
-      <div class="pb-12 mt-36">
-             <div class="hero_title ">
-                <span class="fadeInUp" style="animation-delay:0.1s;">Pour </span>  
-                <span class="fadeInUp" style="animation-delay:0.2s;">retrouver</span> 
-                <span class="fadeInUp" style="animation-delay:0.3s;">un</span>
-              </div>
-              <div class="hero_title">
-                <span class="fadeInUp" style="animation-delay:0.4s;">plaisir </span>
-                <span class="fadeInUp" style="animation-delay:0.5s;">partagé  </span>
-              </div>
+<section class="bg-white background">
+  <div
+    class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center"
+  >
+    <div class="mx-auto max-w-xl text-center">
+      <h1 class="text-3xl font-extrabold sm:text-5xl">
+        Pour retrouver un plaisir partager
+      </h1>
 
-          <div class="mb-36 mt-12 fadeInUp" style="animation-delay:1.1s;">
-            <a href="https://calendly.com/damien-doussot-therapeute" class="py-2 px-4 md:py-4 md:px-6 mr-2  select-none hover:bg-gray-700 bg-[#111827] rounded shadow-lg text-white">Prendre un RDV</a>
-            <NuxtLink to="/ContactPage" class="py-2 px-4 md:py-4 md:px-6  select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  Contact <span>&rarr;</span></NuxtLink>
-          </div>
-        </div>
-      </section>
+      <p class="mt-4 sm:text-xl sm:leading-relaxed">
+        Damien Doussot, expert en sexologie, consulte dans son cabinet
+      </p>
+
+      <div class="mt-8 flex flex-wrap justify-center gap-4">
+        <a
+          class="block w-full rounded bg-[#111827] px-12 py-3 text-sm font-medium text-white shadow hover:bg-gray-700  focus:outline-none focus:ring active:bg-black sm:w-auto"
+          href="https://calendly.com/damien-doussot-therapeute"
+        >
+          Prendre RDV
+        </a>
+
+        <a
+          class="block w-full rounded px-12 py-3 text-sm font-medium text-black shadow hover:text-black focus:outline-none focus:ring active:text-black sm:w-auto"
+          href="/contact"
+        >
+          Contact
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 </template>
     
 <script>
@@ -28,13 +41,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 
-.wave-container {
+.background {
   background-image: url('@/assets/img_couple.jpg');
-  position: relative;
-  background-size: cover;
-  color: black;
-  text-align: center;
-  overflow: hidden;
 }
 h1 {
   font-family: 'Lato', sans-serif;

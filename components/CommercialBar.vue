@@ -63,13 +63,8 @@
   }
 
   .container_phone {
+    margin-left: 10px;
     font-size: 14px;
-    height: 44px;
-    max-width: 100%;
-    background-color: #FAF6F2;
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
 }
 
