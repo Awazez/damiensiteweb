@@ -4,7 +4,7 @@
   
         <!-- Header logo -->
         <div>
-          <a href="#" rel="author" class="text-xl font-bold text-gray-900">Damien Doussot</a>
+          <NuxtLink to="/" class="text-xl font-bold text-gray-900">Damien Doussot</NuxtLink>
         </div>
   
         <!-- Mobile toggle -->
