@@ -5,7 +5,7 @@
   >
     <div class="mx-auto max-w-xl text-center">
       <h1 class="text-3xl font-extrabold sm:text-5xl">
-        Pour retrouver un plaisir partager
+        Pour retrouver un plaisir partagé
       </h1>
 
       <p class="mt-4 sm:text-xl sm:leading-relaxed">
