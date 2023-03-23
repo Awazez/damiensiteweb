@@ -10,7 +10,7 @@
                       <img class="mr-4 w-40 h-40 rounded-full" src="@/assets/Rectangle18.png" alt="Jese Leos">
                       <div>
                           <a href="#" rel="author" class="text-xl font-bold text-gray-900">Damien Doussot</a>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400">Psychotherapeute, Caen</p>
+                          <p class="text-base font-light text-gray-500 dark:text-gray-400">Sexotherapeute, Caen</p>
                           <p class="text-base font-light text-gray-500 dark:text-gray-400"></p>
                       </div>
                   </div>
