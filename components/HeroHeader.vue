@@ -7,7 +7,7 @@
       </h1>
 
       <p class="mt-4 sm:text-xl sm:leading-relaxed">
-        Damien Doussot, expert en sexologie, consulte dans son cabinet
+        Damien Doussot, sexothérapeute, consulte dans son cabinet et lors de journées thêmatiques
       </p>
 
       <div class="mt-8 flex flex-wrap justify-center gap-4 pb-10">
