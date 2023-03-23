@@ -19,15 +19,15 @@
             </svg>
           </button>
         </div>
-  
+
         <!-- Navbar -->
         <div class="hidden md:block">
           <ul class="flex space-x-8 text-base font-sans">
-            <li><a href="#" class="active border-b-2 border-blue-500 pb-1">Accueil</a></li>
-            <li><NuxtLink to="/qui-suis-je">Qui suis je?</NuxtLink></li>
-            <li><NuxtLink to="/accompagnement">Accompagnement</NuxtLink></li>
-            <li><NuxtLink to="/tarif">Tarif</NuxtLink></li>
-            <li><NuxtLink to="/contact">Contact</NuxtLink></li>
+            <li><NuxtLink to="/">Accueil</NuxtLink></li>
+            <li><NuxtLink to="/qui-suis-je" >Qui suis je?</NuxtLink></li>
+            <li><NuxtLink to="/accompagnement" >Accompagnement</NuxtLink></li>
+            <li><NuxtLink to="/tarif" >Tarif</NuxtLink></li>
+            <li><NuxtLink to="/contact" >Contact</NuxtLink></li>
           </ul>
         </div>
   
