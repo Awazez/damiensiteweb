@@ -40,7 +40,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 
 .background {
-  background-image: url('@/assets/img_couple.avif');
+  background-image: url('@/assets/img_couple.png');
 }
 h1 {
   font-family: 'Lato', sans-serif;
