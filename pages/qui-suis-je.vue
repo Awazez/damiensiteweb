@@ -9,7 +9,7 @@
     <div class="container-left">
         <div>
             
-                <img src="@/assets/Rectangle 18.png" alt="office content 2">
+                <img src="@/assets/Rectangle18.png" alt="office content 2">
         </div>
     </div>
         <div class="container-right">
