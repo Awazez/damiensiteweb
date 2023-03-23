@@ -1,6 +1,6 @@
 <template>
 <section class="bg-white background">
-  <div class="mx-auto max-w-screen-xl px-4 py-24 lg:flex lg:h-screen lg:items-center">
+  <div class="mx-auto max-w-screen-xl px-4 py-8 lg:flex lg:h-screen lg:items-center">
     <div class="mx-auto max-w-xl text-center">
       <h1 class="text-3xl font-extrabold sm:text-5xl">
         Pour retrouver un plaisir partagé
@@ -10,7 +10,7 @@
         Damien Doussot, expert en sexologie, consulte dans son cabinet
       </p>
 
-      <div class="mt-8 flex flex-wrap justify-center gap-4">
+      <div class="mt-8 flex flex-wrap justify-center gap-4 pb-10">
         <a
           class="block w-full rounded bg-[#111827] px-12 py-3 text-sm font-medium text-white shadow hover:bg-gray-700  focus:outline-none focus:ring active:bg-black sm:w-auto"
           href="https://calendly.com/damien-doussot-therapeute"
