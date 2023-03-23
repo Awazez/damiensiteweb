@@ -20,7 +20,6 @@ Au plaisir de vous accueillir ! <br><br></p>
 
 
 
-
 </section>
 
 
