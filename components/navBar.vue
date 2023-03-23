@@ -65,11 +65,11 @@
           </span>
   
           <ul class="divide-y font-sans">
-            <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Accueil</a></li>
-            <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Qui suis je?</a></li>
-            <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Accompagnement</a></li>
-            <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Tarifs</a></li>
-            <li><a href="#" @click="isOpen = false" class="my-4 inline-block">Contact</a></li>
+            <li><NuxtLink to="/" @click="isOpen = false" class="my-4 inline-block">Accueil</NuxtLink></li>
+            <li><NuxtLink to="/qui-suis-je" @click="isOpen = false" class="my-4 inline-block">Qui suis je?</NuxtLink></li>
+            <li><NuxtLink to="/accompagnement" @click="isOpen = false" class="my-4 inline-block">Accompagnement</NuxtLink></li>
+            <li><NuxtLink to="/tarif" @click="isOpen = false" class="my-4 inline-block" >Tarif</NuxtLink></li>
+            <li><NuxtLink to="/contact" @click="isOpen = false" class="my-4 inline-block">Contact</NuxtLink></li>
           </ul>
   
           <div class="follow">

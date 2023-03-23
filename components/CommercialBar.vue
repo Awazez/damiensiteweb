@@ -19,7 +19,7 @@
   .container {
     height: 44px;
     max-width: 100%;
-    background-color: #FAF6F2;
+    background-color: white;
     display: flex;
 
   }
@@ -27,7 +27,7 @@
     margin-left:50px;
     height: 44px;
     max-width: 100%;
-    background-color: #FAF6F2;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -43,7 +43,7 @@
     margin-left: 50px;
     height: 44px;
     max-width: 100%;
-    background-color: #FAF6F2;
+    background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -21,7 +21,7 @@
         </a>
 
         <a
-          class="block w-full rounded px-12 py-3 text-sm font-medium text-black shadow hover:text-black focus:outline-none focus:ring active:text-black sm:w-auto"
+          class="block w-full rounded bg-[#111827] px-12 py-3 text-sm font-medium text-white shadow hover:bg-gray-700  focus:outline-none focus:ring active:bg-black sm:w-auto"
           href="/contact"
         >
           Contact
@@ -42,17 +42,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 
 .background {
-  background-image: url('@/assets/img_couple.jpg');
+  background-image: url('@/assets/img_couple.avif');
 }
 h1 {
   font-family: 'Lato', sans-serif;
-  color:black;
+  color:white;
   font-size: 3em;
   font-weight:bold; 
 }
 p {
   font-size: 1.5rem;
   margin: 0 1.25rem 5rem 1.25rem;
+  color: white;
 }
 
 span {
