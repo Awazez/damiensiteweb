@@ -1,0 +1,11 @@
+<template>
+    <div>
+      <CommercialBar/>
+      <NavBar/>
+      <HeroHeader/>
+      <ThreePoint/>
+      <ActuSection/>
+      <UsersSection/>
+      <FooterBar/>
+    </div>
+  </template>
