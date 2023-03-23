@@ -4,7 +4,7 @@
   
         <!-- Header logo -->
         <div>
-          <Tailwind />
+          <a href="#" rel="author" class="text-xl font-bold text-gray-900">Damien Doussot</a>
         </div>
   
         <!-- Mobile toggle -->

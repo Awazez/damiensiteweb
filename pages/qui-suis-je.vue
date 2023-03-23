@@ -23,14 +23,22 @@
             alors intéressé au développement personnel, à la psychologie et ouvert à la spiritualité. </p> <br>
           <p class="lead text-justify">J’ai entrepris un travail sur moi pour comprendre ma structuration, mes blocages et mes enjeux personnels. J’ai ainsi ouvert une porte merveilleuse 
             sur mon monde intérieur pour me réaliser et je continue de cheminer chaque jour en ce sens.</p> <br>
+            
           <figure><img src="@/assets/img_couple.png" alt="">
           </figure>
-          <h2>Getting started with Flowbite</h2>
-          <p>First of all you need to understand how Flowbite works. This library is not another framework.
-              Rather, it is a set of components based on Tailwind CSS that you can just copy-paste from the
-              documentation.</p>
-          <p>It also includes a JavaScript file that enables interactive components, such as modals, dropdowns,
-              and datepickers which you can optionally include into your project via CDN or NPM.</p>
+          <br>
+          <p class="lead text-justify">Cela m'a permis de m'intéresser au fonctionnement de l’inconscient et aux outils pour y avoir accès. Je me suis alors formé à la psychothérapie transpersonnelle et aux états 
+                modifiés de conscience afin de toucher d’autres dimensions plus profondes de l’être humain.</p> <br>
+            <p class="lead text-justify">Passionné par le corps humain et son rapport à la psychologie, je me suis également formé à la sexothérapie afin de comprendre comment notre sexualité peut être le reflet 
+                de nos enjeux psychiques et permettre aux femmes et aux hommes d’aller connecter leur essence.</p> <br>
+                <p class="lead text-justify">Aujourd’hui, je me consacre à ce qui me fait vraiment vibrer, vous accompagner
+                     à aller à la rencontre de votre monde intérieur afin que vous puissiez vous réaliser.</p> <br>
+          <h2>Déontologie</h2>
+          <br>
+          <p class="lead text-justify">Pour aborder un domaine aussi intime et personnel que la sexualité et la vie de couple, vous avez besoin d’avoir confiance en votre thérapeute.
+</p>
+<br>
+          <p class="lead text-justify">Le sexothérapeute est soumis au secret professionnel, ce qui signifie que ce qui se dit dans le cabinet reste dans le cabinet.</p> <br>
           <p>You can check out the <a href="https://flowbite.com/docs/getting-started/quickstart/">quickstart
                   guide</a> to explore the elements by including the CDN files into your project. But if you want
               to build a project with Flowbite I recommend you to follow the build tools steps so that you can
