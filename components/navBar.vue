@@ -24,10 +24,10 @@
         <div class="hidden md:block">
           <ul class="flex space-x-8 text-base font-sans">
             <li><a href="#" class="active border-b-2 border-blue-500 pb-1">Accueil</a></li>
-            <li><a href="#" class="">Qui suis je?</a></li>
-            <li><a href="#" class="">Accompagnement</a></li>
-            <li><a href="#" class="">Tarifs</a></li>
-            <NuxtLink to="/ContactPage"><li>Contact</li></NuxtLink>
+            <li><NuxtLink to="/qui-suis-je">Qui suis je?</NuxtLink></li>
+            <li><NuxtLink to="/accompagnement">Accompagnement</NuxtLink></li>
+            <li><NuxtLink to="/tarif">Tarif</NuxtLink></li>
+            <li><NuxtLink to="/contact">Contact</NuxtLink></li>
           </ul>
         </div>
   
