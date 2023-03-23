@@ -64,7 +64,11 @@ export default {
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
-
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 h2 {
     display:flex;
     align-items: center;
