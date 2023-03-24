@@ -43,14 +43,14 @@
 
 h1 {
   font-family: 'Lato', sans-serif;
-  color:white;
+  color: black;
   font-size: 3em;
   font-weight:bold; 
 }
 p {
   font-size: 1.5rem;
   margin: 0 1.25rem 5rem 1.25rem;
-  color: white;
+  color: black;
 }
 
 span {
