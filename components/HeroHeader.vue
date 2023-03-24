@@ -7,7 +7,7 @@
       </h1>
 
       <p class="mt-4 sm:text-xl sm:leading-relaxed">
-        Damien Doussot, sexothérapeute, consulte dans son cabinet et lors de journées thêmatiques
+        Damien Doussot, psychopraticien vous reçoit dans son cabinet, en visio ou lors d’ateliers et stages
       </p>
 
       <div class="mt-8 flex flex-wrap justify-center gap-4 pb-10">
@@ -39,9 +39,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 
-.background {
-  background-image: url('@/assets/img_couple.png');
-}
+
+
 h1 {
   font-family: 'Lato', sans-serif;
   color:white;
