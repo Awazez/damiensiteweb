@@ -4,9 +4,9 @@
         <div class="projects__grid grid gap-8 max-w-screen-lg ">
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_listen.png">
-            <h1>Ecoute bienveillante</h1>
+            <h1>Une écoute bienveillante sans tabous</h1>
             <p class="project__description">
-              Quelles que soient vos difficultés, j’accueille votre parole avec bienveillance et humanité dans un espace sécurisé où tout peut être déposé, sans se censurer, car nommer ses maux est la première étape pour se libérer. 
+              Quelles que soient vos difficultés, j’accueille votre parole avec bienveillance et humanité dans un espace sécurisé où tout peut être déposé, sans se censurer, car nommer ses maux est la première étape pour se libérer.  
             </p>
             <br>
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
@@ -17,7 +17,7 @@
             <img class="" src="@/assets/img_connect.png">
             <h1>Se reconnecter à soi</h1>
             <p class="project__description">
-              Bien souvent, on se dissocie émotionnellement de notre vécu douloureux. Pourtant, il est nécessaire de reconnecter ces moments et de s’associer à ce qui se passe à l’intérieur de nous pour transmuter  et reprendre son pouvoir personnel.
+              Bien souvent, on se dissocie émotionnellement de notre vécu douloureux. Pourtant, il est nécessaire de reconnecter ces moments et de s’associer à ce qui se passe à l’intérieur de nous pour transmuter  et reprendre son pouvoir personnel sur ces situations difficiles. Je vous accompagne dans cette traversée intérieure.
             </p>
 
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
@@ -25,9 +25,9 @@
           </div>
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_sens.png">
-            <h1>Trouver du sens</h1>
+            <h1>Trouver du sens et ses excellences</h1>
             <p class="project__description">
-              Il arrive d’avoir la sensation de ne pas être maître de sa vie et de reproduire inconsciemment les mêmes choses sans comprendre pourquoi. S'engager dans un travail thérapeutique permet de mettre du sens sur ce qui nous arrive. 
+              Il arrive d’avoir la sensation de ne pas être maître de sa vie et de reproduire inconsciemment les mêmes choses sans comprendre pourquoi. S'engager dans un travail thérapeutique permet de mettre du sens sur ce qui nous arrive et de ne plus en être esclave. On peut alors récupérer l’énergie qui était bloquée et la déployer comme une nouvelle ressource dans sa vie. Nos vécus même douloureux renferment nos plus grandes capacités.
             </p>
               <br>
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
