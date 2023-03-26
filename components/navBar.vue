@@ -61,7 +61,7 @@
           </div>
   
           <span @click="isOpen = false" class="flex w-full items-center p-4 border-b">
-            <Tailwind />
+            <NuxtLink to="/" class="text-xl title">Damien Doussot</NuxtLink>
           </span>
   
           <ul class="divide-y font-sans">
@@ -124,11 +124,13 @@
   };
   </script>
 
-  <<style scoped>
+  <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 .title {
   font-family: 'Pacifico', cursive;
+  font-size: 28px;
+  margin-left: 25px;
 }
 
-  </style>
+</style>

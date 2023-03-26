@@ -5,7 +5,8 @@
 <section class="bg-white">
   <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
       <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900">Contact</h2>
-      <p class="mb-8 lg:mb-16 font-light text-center text-gray-500  sm:text-xl">Vous voulez contacter Damien Doussot pour une question précise ? N'hésiter pas à le contacter à l'aide de ce formulaire de contact </p>
+      <p class=" font-light text-center text-gray-500  sm:text-xl">Vous avez une question ?</p>
+      <p class=" font-light text-center text-gray-500  sm:text-xl">Vous pouvez me contacter à l’aide de ce formulaire.</p>
       <form action="#" class="space-y-8">
         <div>
               <label for="email" class="block mb-2 text-sm font-medium text-gray-900">Prénom</label>

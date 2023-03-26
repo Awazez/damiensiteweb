@@ -15,7 +15,7 @@
 export default {
   data() {
     return {
-      names: [" Damien Doussot a su toute suite comprendre la problèmatique de notre couple et ainsi proposer des solutions à travers notamment l'hypnose pour rendre notre vie de couple plus épanouit. Si c'était à refaire je choisirais à nouveau Damien Doussot. Ella et Arthur",
+      names: [" Damien Doussot a su toute suite comprendre la problématique de notre couple et ainsi proposer des solutions à travers notamment l'hypnose pour rendre notre vie de couple plus épanouie. Si c'était à refaire, je choisirais à nouveau Damien Doussot. Ella et Arthur",
   "Le sexothérapeut M. Doussot, nous a permis d'apprendre à mieux nous connaitre moi et Marie. Nous étions à une période ou la routine devenant très présente dans notre couple. Et un nouveau souffle était nécessaire. Merci ! Marie et Louis" ]
     }; 
 },

@@ -7,7 +7,6 @@
   <div class="flex justify-between px-4 mx-auto max-w-screen-xl ">
       <article class="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
           <header class="mb-4 lg:mb-6 not-format">
-              <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl">Accompagnement </h1>
           </header>
           <p class="lead text-justify">Je suis un homme qui a à cœur de révéler le meilleur de chacun.e de vous. </p> <br>
           <p class="lead text-justify">Mon objectif principal est d’être une opportunité de changement pour vous. Je vous accompagne à mettre du sens et de la compréhension sur les éléments bloquants qui animent votre vie. Pour cela, j’utilise plusieurs outils thérapeutiques pour vous aider à traverser vos zones d’ombres et de lumière avec bienveillance et sécurité. </p> <br>
@@ -20,7 +19,6 @@ Je vous accueille peu importe votre identité, vos orientations affectives et se
 
 <p class="lead text-justify">Au plaisir que nos chemins se rencontrent ! </p> <br>
 <p class="lead text-justify">La vision intégrale de la santé a pour but de ne rien exclure et d’honorer toutes les dimensions de votre problématique, au service de votre mouvement évolutif.</p> <br>
-          <h1 class="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl">“La vision intégrative”: la spirale dynamique </h1>
 <p class="lead text-justify">« Tu n’y verras clair qu’en regardant en toi. Qui regarde l’extérieur, rêve. Qui regarde en lui-même, s’éveille. » Carl Gustav Jung </p> <br>
 <p class="lead text-justify">« Soyons le changement que nous voulons voir dans ce monde. » Gandhi
  </p> <br>

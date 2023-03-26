@@ -4,13 +4,10 @@
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Actualités</h2>
             <p class="mb-4">
-Je vous accueille désormais dans mon cabinet situé 3 rue Claude Chappe à Caen pour des séances de:
-Sexothérapie
-Thérapie de couple
-Hypnose & PNL
-Respiration en hyperventilation 
-Pour savoir comment je peux vous accompagner ou pour prendre rendez-vous, contactez-moi par téléphone au 06.63.83.99.37 ou par mail damien.doussot.therapeute@gmail.com.<br><br>
-Au plaisir de vous accueillir ! <br><br></p>
+                Je vous accueille dans mon cabinet situé 3 rue Claude Chappe à Caen pour des séances de psychothérapie et d’hypnose.
+Pour savoir comment je peux vous accompagner ou pour prendre rendez-vous, contactez-moi par téléphone au 06.63.83.99.37 ou par mail damien.doussot.therapeute@gmail.com.
+Au plaisir de vous accueillir !
+ <br><br></p>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
             <img class="w-full rounded-lg" src="@/assets/img_hand.jpg" alt="office content 1">
