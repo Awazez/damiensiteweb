@@ -10,7 +10,7 @@
                       <img class="mr-4 w-40 h-40 rounded-full" src="@/assets/Rectangle18.png" alt="Jese Leos">
                       <div>
                           <a href="#" rel="author" class="text-xl font-bold text-gray-900">Damien Doussot</a>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400">Sexotherapeute, Caen</p>
+                          <p class="text-base font-light text-gray-500 dark:text-gray-400">Votre psychopraticien</p>
                           <p class="text-base font-light text-gray-500 dark:text-gray-400"></p>
                       </div>
                   </div>
@@ -23,9 +23,6 @@
             alors intéressé au développement personnel, à la psychologie et ouvert à la spiritualité. </p> <br>
           <p class="lead text-justify">J’ai entrepris un travail sur moi pour comprendre ma structuration, mes blocages et mes enjeux personnels. J’ai ainsi ouvert une porte merveilleuse 
             sur mon monde intérieur pour me réaliser et je continue de cheminer chaque jour en ce sens.</p> <br>
-            
-          <figure><img src="@/assets/img_couple.png" alt="">
-          </figure>
           <br>
           <p class="lead text-justify">Cela m'a permis de m'intéresser au fonctionnement de l’inconscient et aux outils pour y avoir accès. Je me suis alors formé à la psychothérapie transpersonnelle et aux états 
                 modifiés de conscience afin de toucher d’autres dimensions plus profondes de l’être humain.</p> <br>
