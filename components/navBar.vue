@@ -4,7 +4,7 @@
   
         <!-- Header logo -->
         <div>
-          <NuxtLink to="/" class="text-xl font-bold text-gray-900">Damien Doussot</NuxtLink>
+          <NuxtLink to="/" class="text-xl title">Damien Doussot</NuxtLink>
         </div>
   
         <!-- Mobile toggle -->
@@ -123,3 +123,12 @@
     }
   };
   </script>
+
+  <<style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.title {
+  font-family: 'Pacifico', cursive;
+}
+
+  </style>
