@@ -3,7 +3,7 @@
 <section class="section_projects bg-[#FAF6F2] mt-[-45px] pt-12">
         <div class="projects__grid grid gap-8 max-w-screen-lg ">
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
-            <img class="" src="@/assets/img_listen.png">
+            <img class="" src="@/assets/img_ecoute.png">
             <h1>Une écoute bienveillante sans tabous</h1>
             <p class="project__description">
               Quelles que soient vos difficultés, j’accueille votre parole avec bienveillance et humanité dans un espace sécurisé où tout peut être déposé, sans se censurer, car nommer ses maux est la première étape pour se libérer.  
@@ -14,7 +14,7 @@
           </div>
 
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
-            <img class="" src="@/assets/img_connect.png">
+            <img class="" src="@/assets/img_fleur.png">
             <h1>Se reconnecter à soi</h1>
             <p class="project__description">
               Bien souvent, on se dissocie émotionnellement de notre vécu douloureux. Pourtant, il est nécessaire de reconnecter ces moments et de s’associer à ce qui se passe à l’intérieur de nous pour transmuter  et reprendre son pouvoir personnel sur ces situations difficiles. Je vous accompagne dans cette traversée intérieure.
@@ -24,7 +24,7 @@
       
           </div>
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
-            <img class="" src="@/assets/img_sens.png">
+            <img class="" src="@/assets/img_soleil.png">
             <h1>Trouver du sens et ses excellences</h1>
             <p class="project__description">
               Il arrive d’avoir la sensation de ne pas être maître de sa vie et de reproduire inconsciemment les mêmes choses sans comprendre pourquoi. S'engager dans un travail thérapeutique permet de mettre du sens sur ce qui nous arrive et de ne plus en être esclave. On peut alors récupérer l’énergie qui était bloquée et la déployer comme une nouvelle ressource dans sa vie. Nos vécus même douloureux renferment nos plus grandes capacités.
